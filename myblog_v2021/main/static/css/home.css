@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../image/배경.png');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+nav {
+    display: inline-block;
+    width: 100%;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: block;
+    background-color: aquamarine;
+}
+
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    background-color: orange;
+    color: white;
+}
